@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="Style.css" />
+ 
+</head>
+<body>
+  <div class="container">
+    <h1>📊 MindSprint</h1>
+    <div  id="quiz-select-wrapper">
+    <label for="quiz-selector">Choose a Quiz:</label>
+    <select id="quiz-selector">
+      <option value="">---Please select a Quiz---</option>
+    </select>
+    </div>
+    <div id="quiz-container" class="hide">
+      <div id="question"></div>
+      <ul id="options"></ul>
+      <button id="log-out-btn">LogOut</button>
+      <button id="exit-btn">Exit</button>
+      <button id="next-btn" disabled>Next</button>
+    </div>
+    <div id="result" class="hide">
+      <h2>Your Score: <span id="score"></span>/<span id="total"></span></h2>
+      <button id="log-out-btn-result">LogOut</button>
+      <button id="exit-btn-result">Exit</button>
+      <button id="restart-btn">Restart Quiz</button>
+    </div>
+  </div>
+
+  <script src="Script.js"></script>
+</body>
+</html>
