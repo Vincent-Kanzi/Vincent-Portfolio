@@ -2,8 +2,7 @@
 
 ## Evidence
 > ![Team Charter](assets/team-charter.png)
-> *A screenshot of our team charter for the WHIRLME System, created and agreed
-> by the team at the start of the internship.*
+
 
 This is the team charter my internship team and I created for WHIRLME SYSTEM
 at CPUT. It defined our shared purpose, values, working agreements and
