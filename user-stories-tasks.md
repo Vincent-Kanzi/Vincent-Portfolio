@@ -6,15 +6,15 @@
 These are user stories I wrote during my internship from the
 end-user's perspective, broken into concrete tasks.
 
-### Example
-**Story:** As a user, I want the feature that will alert when the incidents happen at residence so that I can attend to the incident soon as possible.
+**Story:** s a house parent, I want to be alerted when an incident happens in
+my residence so that I can attend to it as soon as possible.
 
 
 | # | Task | Estimate |
 |---|---|---|
-| 1 | create email/in system notification  | [pts] |
-| 2 | create a database that will have all the repairs | [pts] |
-| 3 | create an application that will adjust | [pts] |
+| 1 | Create email and in-system notification   | 2 |
+| 2 | Create a database that stores all repairs and incidents |4 |
+| 3 | Create the application logic that adjusts and routes incidents | 3 |
 
 ## Reflection
 My first attempt at user stories in coursework was really just technical tasks
