@@ -2,6 +2,8 @@
 
 ## Evidence
 > ![Team Charter](assets/team-charter.png)
+> *A screenshot of our team charter for the WHIRLME System, created and agreed
+> by the team at the start of the internship.*
 
 This is the team charter my internship team and I created for WHIRLME SYSTEM
 at CPUT. It defined our shared purpose, values, working agreements and
@@ -22,7 +24,9 @@ on you I had made one for coursework and barely used it. Writing one *with* a
 professional team changed that. In my first week I noticed friction people
 joining stand ups late, tasks with no clear owner and I recognised it as a
 **charter gap**, not a personality problem, because I had seen the same pattern
-in my earlier projects. The clause that mattered most was our Definition of Done.
+in my earlier projects. The clause that mattered most was our Definition of Done,
+because it stopped the repeated "is this finished?" arguments I remembered from
+QuizApp and ETL.
 
 I also learned a charter is only alive if you use it. Ours was reviewed at the
 start of every retrospective, and we amended it once to add a  blocked work 
